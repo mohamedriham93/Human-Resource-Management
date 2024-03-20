@@ -1,5 +1,0 @@
-1028401,Mohamed Riham,Manager,HR,2024-01-04,Active
-001,Ashriff,Assistant Manager,HR,2024-01-05,Active
-002,Shankar,Agent,HR,2024-01-07,Active
-003,Niham,Employee,HR,2024-01-09,Active
-004,Nisath,Employee,HR,2024-01-25,Active
